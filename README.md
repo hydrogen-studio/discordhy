@@ -5,7 +5,6 @@
 <br>
 
 <a href="https://nodei.co/npm/discord.hy/"><img src="https://nodei.co/npm/discord.hy.png"></a>
-<a href="https://discord.gg/SNNS24r"><img alt="Discord" src="https://discordapp.com/api/guilds/713166270052171910/embed.png"></img></a>
 <br>
 
 # Table of Content
