@@ -17,6 +17,7 @@
 
 ## Info
 
+Requires Discord.js version 12.0.0 or above
 
 Documentation: [https://discordhy.js.org](https://discordhy.js.org)
 
@@ -68,8 +69,6 @@ client.on("ready", function(data){//call in the 'ready' event
 let login = client.login("super secret bot token")
 ```
 
+WE HAVE BEATEN 100% api coverage! We created this package like discord.js so that discord.js developers can migrate their bot from discord.js to discord.hy faster, with only a few thing to change.
 
-
-# More
-
-More are coming, and we aim to beat 100% coverage before 2021.
+Documentation Still in Progress.

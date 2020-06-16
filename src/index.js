@@ -7,8 +7,8 @@ module.exports = {
   BaseClient: require('./client/BaseClient'),
   Client: require('./client/Client'),
   Shard: require('./sharding/Shard'),
-  ShardClientUtil: require('./sharding/ShardClientUtil'),
-  ShardingManager: require('./sharding/ShardingManager'),
+  ShardUtil: require('./sharding/ShardClientUtil'),
+  ShardManager: require('./sharding/ShardingManager'),
   WebhookClient: require('./client/WebhookClient'),
 
   // Utilities
@@ -78,9 +78,9 @@ module.exports = {
   Integration: require('./structures/Integration'),
   Invite: require('./structures/Invite'),
   Message: require('./structures/Message'),
-  MessageAttachment: require('./structures/MessageAttachment'),
+  Attachments: require('./structures/MessageAttachment'),
   MessageCollector: require('./structures/MessageCollector'),
-  MessageEmbed: require('./structures/MessageEmbed'),
+  RichEmbed: require('./structures/MessageEmbed'),
   MessageMentions: require('./structures/MessageMentions'),
   MessageReaction: require('./structures/MessageReaction'),
   NewsChannel: require('./structures/NewsChannel'),

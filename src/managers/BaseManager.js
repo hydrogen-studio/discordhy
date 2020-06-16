@@ -74,7 +74,7 @@ class BaseManager {
   }
 
   valueOf() {
-    return this.cache;
+    return this.catch;
   }
 }
 
